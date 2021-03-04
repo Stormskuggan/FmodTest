@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ProfilerSession" id="{96786e02-edc0-483f-a78e-fbefb064f17a}">
+        <relationship name="uiLastParameterSelection">
+            <destination>{e7029ae9-43f5-45ec-9239-d1c018a224c9}</destination>
+        </relationship>
+    </object>
+    <object class="MasterTrack" id="{9430ad0f-4aee-40ae-b677-43f95c1dfb50}"/>
+    <object class="EventAutomatableProperties" id="{7497cc54-61ae-467f-993c-2059b899aab0}"/>
+    <object class="MarkerTrack" id="{152defdc-cb75-4581-8366-10e73bf06124}"/>
+    <object class="Timeline" id="{e7029ae9-43f5-45ec-9239-d1c018a224c9}">
+        <property name="uiLastRulerScaleRatio">
+            <value>0.039577836411609502</value>
+        </property>
+    </object>
+    <object class="ProfilerTrack" id="{033984b0-606b-4ec8-892d-091d4e4658bc}"/>
+    <object class="ProfilerTrack" id="{3b3adb0c-9ae9-4f9c-bf2c-6c55c7729fe4}"/>
+    <object class="ProfilerTrack" id="{34094c14-e57c-47bb-a3d8-f7e8137abc41}"/>
+    <object class="ProfilerTrack" id="{fdb87f9f-b2eb-45c8-851f-4dae59fe554b}"/>
+    <object class="EventMixerMaster" id="{4b5514b6-aeb0-4253-b5a7-edcbacdc8b0d}"/>
+    <object class="ProfilerRecordingMarker" id="{891bdf8f-edf7-46d2-ad0d-9019bc8c4f85}"/>
+    <object class="ProfilerGraph" id="{3418e111-3bf8-4bee-83bf-b202ed4eccaf}"/>
+    <object class="ProfilerGraph" id="{4ab559c2-1564-4381-a46b-6598eca601e7}"/>
+    <object class="ProfilerGraph" id="{9fc183a5-cbbc-4f69-8293-fcdc6855ddce}"/>
+    <object class="ProfilerGraph" id="{d644421c-ee81-40cd-b083-bee1c1c54916}"/>
+    <object class="ProfilerGraph" id="{76839790-3038-4703-92df-8d07aaf3e6f7}"/>
+    <object class="ProfilerGraph" id="{0624fdd9-dfc0-40e4-9205-90545748a089}"/>
+    <object class="MixerBusEffectChain" id="{25b7e725-369b-45ce-af96-53b6ec50ed4c}"/>
+    <object class="MixerBusPanner" id="{0d2dc447-7dce-4a2d-b141-94d656450387}"/>
+    <object class="MixerBusFader" id="{ed640c42-fc9c-4413-abc2-a4d31cf9f943}"/>
+</objects>

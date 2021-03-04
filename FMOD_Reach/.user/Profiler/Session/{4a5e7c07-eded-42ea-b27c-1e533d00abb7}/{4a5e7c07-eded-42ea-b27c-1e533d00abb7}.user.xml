@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ProfilerSession" id="{4a5e7c07-eded-42ea-b27c-1e533d00abb7}">
+        <relationship name="uiLastParameterSelection">
+            <destination>{266405d5-8626-4ca4-83b2-a9191f13fa50}</destination>
+        </relationship>
+    </object>
+    <object class="MasterTrack" id="{28877d36-1688-4473-8443-006c33c2ccab}"/>
+    <object class="EventAutomatableProperties" id="{620551e2-449a-40e8-bc53-8b9374db1b94}"/>
+    <object class="MarkerTrack" id="{f705053e-d935-439e-b278-e26882ac9ed2}"/>
+    <object class="Timeline" id="{266405d5-8626-4ca4-83b2-a9191f13fa50}">
+        <property name="uiLastRulerScaleRatio">
+            <value>0.02650765171503958</value>
+        </property>
+    </object>
+    <object class="ProfilerTrack" id="{98e9bbd8-9d0f-426f-bc93-89c17774effc}"/>
+    <object class="ProfilerTrack" id="{cc5cdcc1-4a3f-4496-b1e7-f87c90b543de}"/>
+    <object class="ProfilerTrack" id="{0015d084-2b0d-43ad-8bdf-52f16b5528d6}"/>
+    <object class="ProfilerTrack" id="{701ad545-99b5-43bd-8d29-faadcc70e9cf}"/>
+    <object class="EventMixerMaster" id="{8b464e70-dfd5-4776-a627-64bc16213d2a}"/>
+    <object class="ProfilerRecordingMarker" id="{d0e19fd3-58b8-4674-b4b9-625f4cb01631}"/>
+    <object class="ProfilerGraph" id="{b9356df4-de37-4918-92fb-6a79e0b1e0a7}"/>
+    <object class="ProfilerGraph" id="{427b7eb0-3a2b-4998-9803-74ed8fe964cf}"/>
+    <object class="ProfilerGraph" id="{caea42a1-94cb-4d5b-a7ce-db40da7fa92f}"/>
+    <object class="ProfilerGraph" id="{e4ae4e34-4a9e-411c-9644-b127845e60bf}"/>
+    <object class="ProfilerGraph" id="{10f75ae1-5e29-4b7e-9fc4-e42369bf9886}"/>
+    <object class="ProfilerGraph" id="{6955312f-e0b1-46a4-a429-69bf211d7735}"/>
+    <object class="MixerBusEffectChain" id="{2a4f0a59-2810-46fa-87ef-10f07b3e102c}"/>
+    <object class="MixerBusPanner" id="{353d0278-33f4-44d5-823f-63581fb5356b}"/>
+    <object class="MixerBusFader" id="{20149765-f273-45c3-8804-370f3645dfb5}"/>
+</objects>

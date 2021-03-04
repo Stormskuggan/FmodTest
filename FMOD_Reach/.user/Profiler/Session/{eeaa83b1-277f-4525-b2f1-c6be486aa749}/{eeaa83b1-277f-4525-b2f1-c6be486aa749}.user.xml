@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ProfilerSession" id="{eeaa83b1-277f-4525-b2f1-c6be486aa749}">
+        <relationship name="uiLastParameterSelection">
+            <destination>{fe460f43-d9b6-479b-b6f3-634af453f710}</destination>
+        </relationship>
+    </object>
+    <object class="MasterTrack" id="{a90751a7-2e6d-451c-b402-0d7c9732fc48}"/>
+    <object class="EventAutomatableProperties" id="{83b3cbb3-ba8d-4f49-b5ad-f0f601b0bf1a}"/>
+    <object class="MarkerTrack" id="{7964da49-6b66-4794-9ab4-a1dccad24e1b}"/>
+    <object class="Timeline" id="{fe460f43-d9b6-479b-b6f3-634af453f710}">
+        <property name="uiLastRulerScaleRatio">
+            <value>0.039577836411609502</value>
+        </property>
+    </object>
+    <object class="ProfilerTrack" id="{5c9b22a1-2a84-41ee-a41a-9e79113c18fb}"/>
+    <object class="ProfilerTrack" id="{3e791735-a86e-4893-9a21-008178acfaf3}"/>
+    <object class="ProfilerTrack" id="{ad7a7fc9-543f-434e-b7d2-8edd63043fec}"/>
+    <object class="ProfilerTrack" id="{c8688159-8fdb-4c7d-ade3-a069d3ab0100}"/>
+    <object class="EventMixerMaster" id="{82230b32-a5b9-414f-9574-605f7be5e824}"/>
+    <object class="ProfilerRecordingMarker" id="{419240d5-ebb7-488d-9b5f-996676b44e91}"/>
+    <object class="ProfilerGraph" id="{65cfc219-ca7c-40ab-a8fc-dd3df268d33b}"/>
+    <object class="ProfilerGraph" id="{be93eb0d-bf26-45b9-a07d-b366df869592}"/>
+    <object class="ProfilerGraph" id="{a50d474b-0548-4dec-868b-b7ed7fdc06bb}"/>
+    <object class="ProfilerGraph" id="{4a2a4699-046b-4f63-a4f2-1c8bbab0f414}"/>
+    <object class="ProfilerGraph" id="{bba5f8dd-2180-4933-b519-8bd940b93b36}"/>
+    <object class="ProfilerGraph" id="{ef1ab0f5-9850-4eb5-a1af-e5f9293ee784}"/>
+    <object class="MixerBusEffectChain" id="{34e0b758-257b-4e80-9183-2a1050605f7d}"/>
+    <object class="MixerBusPanner" id="{c18ed03e-5fbe-4bfc-80d7-c2ba498a8f11}"/>
+    <object class="MixerBusFader" id="{c18d460a-c04e-4ae5-b861-c4da3d7b630c}"/>
+</objects>

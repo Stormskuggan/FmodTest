@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{92bdd30a-b70a-49d8-b406-24e24cb607db}">
+        <property name="assetPath">
+            <value>FX/1ST LEVEL/Searching through Junk.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>26.017959183673469</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{8c966622-e516-44d5-a7ce-acc054f7c1a7}</destination>
+        </relationship>
+    </object>
+</objects>

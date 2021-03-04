@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{cc011e3e-5389-4fc0-92b1-227c36e40690}">
+        <property name="assetPath">
+            <value>Robot_StepsR1.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.5922902494331066</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{8c966622-e516-44d5-a7ce-acc054f7c1a7}</destination>
+        </relationship>
+    </object>
+</objects>

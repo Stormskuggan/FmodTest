@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="Workspace" id="{e8975a58-8178-43e1-921e-dcd67a8a5404}">
+		<property name="builtBanksOutputDirectory">
+			<value>../reach/Assets/Plugins/FMOD/Banks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{f4e994c4-0da1-443d-a38d-ba73f24c09c8}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{b0e05e54-a2c6-4c83-b5b0-0d98602ff236}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{7092145a-a804-4f1e-b0a4-a7134dd72862}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{da5e2ec5-d00a-4393-9368-515e996fa859}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{3293b1d5-22eb-4398-b1d5-508ed11a47a4}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{8c966622-e516-44d5-a7ce-acc054f7c1a7}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{5563cf97-e10e-4a50-b915-09fbeafc2afb}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{2f1aec60-518c-4d92-a99d-a20bed64c90f}</destination>
+		</relationship>
+	</object>
+</objects>
